@@ -35,8 +35,6 @@ Entre na pasta do projeto:
 
 cd mini-contador-js
 
-Instale a dependência prompt-sync:
-
 npm install
 
 Rode o programa com Node.js:
