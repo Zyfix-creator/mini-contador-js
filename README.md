@@ -43,8 +43,11 @@ Instale a dependência prompt-sync:
 npm install
 
 ````
-````Uso
+
+## Uso
+
+````bash
 
 Rode o programa com Node.js:
 
-node index.js
+node main.js
