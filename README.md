@@ -39,4 +39,4 @@ npm install
 
 Rode o programa com Node.js:
 
-node index.js
+node main.js
