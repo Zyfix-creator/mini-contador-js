@@ -31,3 +31,15 @@ Este projeto foi desenvolvido para praticar:
 
 ```bash
 git clone https://github.com/USERNAME/mini-contador-js.git
+Entre na pasta do projeto:
+
+cd mini-contador-js
+
+Instale a dependência prompt-sync:
+
+npm install
+Uso
+
+Rode o programa com Node.js:
+
+node index.js
